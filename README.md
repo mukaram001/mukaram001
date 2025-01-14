@@ -50,6 +50,6 @@ I am a dedicated and passionate Mern Stack developer with extensive experience i
 For collaborations, freelance projects, or any questions, feel free to contact me via:
 - 📧 Email: [mukaramabbas0415@gmail.com](mailto:mukaramabbas0415@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mukaram-abbas-475ma/)
-- 🌐 [Upwork Profile](https://www.upwork.com/freelancers/mukarama)
+
 
 Let's connect and build something amazing together!
