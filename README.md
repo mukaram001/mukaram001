@@ -4,11 +4,11 @@
 
 # Hi 👋, I'm Mukaram Abbas
 
-💻 **React JS | Node | Express | MongoDB | NEXT JS | NEST JS | React Native | Prisma | Sequelize | Type ORM**
+💻 **React JS | Node | Express | MongoDB | NEXT JS
 
 ---
 
-I am a dedicated and passionate Mern Stack developer with extensive experience in building dynamic and responsive web applications. My skills extend across the modern tech stack, enabling me to deliver efficient and scalable solutions.
+I am a dedicated and passionate MERN Stack developer with extensive experience in building dynamic and responsive web applications. My skills extend across the modern tech stack, enabling me to deliver efficient and scalable solutions.
 
 - 🌱 **Currently learning**: Advanced TypeScript and performance optimization techniques.
 - 🔭 **Working on**: Building a robust social dashboard and expanding into backend services with Node.js.
@@ -21,7 +21,6 @@ I am a dedicated and passionate Mern Stack developer with extensive experience i
 ### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mukaram-abbas-475ma/)
-[![Upwork](https://img.shields.io/badge/-Upwork-green?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/mukarama)
 
 ---
 
@@ -34,7 +33,6 @@ I am a dedicated and passionate Mern Stack developer with extensive experience i
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 
 ---
 
