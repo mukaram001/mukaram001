@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Mukaram Abbas
 
-💻 **React JS | Node | Express | MongoDB | NEXT JS
+💻 **React JS | NEXT JS | Node | Express | MongoDB 
 
 ---
 
